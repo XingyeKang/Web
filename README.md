@@ -1,6 +1,6 @@
 <h1>Web Parser</h1>
 
-<b>Description</b>
+<b>Description</b><br />
 <span>This is a HTML/JavaScript program, which takes the URL of an XML document containing Cable Network company information, parses the XML file, and extracts the list of cable networks,  displaying them in a table. The JavaScript program will be embedded in an HTML file so that it can be executed within a browser.</span>
 
 <b>Error Handling</b><br/>
